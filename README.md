@@ -34,7 +34,7 @@ https://github.com/karafaris/EcommerceBackEnd.git
 Part 1 https://youtu.be/LBzGD_z8x6Q 
 Part 2 https://youtu.be/10wDNru121c
 
-Instructions on how to run the app
+## Instructions on how to run the app
 Add a .env file to the root of the app with the following details
 DB_NAME='ecommerce_db'
 DB_USER='root'
